@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class Vehicle {
     private String color;
 
@@ -14,7 +12,7 @@ class Vehicle {
     }
 }
 
-public class vector_test {
+public class class_test {
     public static void main(String[] args) {
         Vehicle v1 = new Vehicle();
         v1.setColor("Red");

@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 class ArrayListExample {
@@ -17,8 +16,7 @@ class ArrayListExample {
             arrl2.add(i * i);
         }
         for (int i = 0; i < arrli.size(); i++) {
-            System.out.println(
-                Integer.toString(arrli.get(i)) + " " + Integer.toString(arrl2.get(i)));
+            System.out.println(Integer.toString(arrli.get(i)) + " " + Integer.toString(arrl2.get(i)));
         }
 
     }

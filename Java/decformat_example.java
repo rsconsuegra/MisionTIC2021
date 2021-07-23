@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class reading_test {
+public class decformat_example {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double n = sc.nextDouble();

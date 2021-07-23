@@ -1,4 +1,4 @@
-public class elementos {
+public class ejemplo_matrix {
     public static void main(String[] args) {
         String[] pacientes = {"maria","sofia","sofia","maria","pedro","maria"};
         String[] nombres = {"maria","sofia","pedro"};
